@@ -1,6 +1,5 @@
 # Hi there 👋
-
-I'm Reedemer23, and I work with **Python**, **C++** and **Shell Scripting**.
+I'm AI enthusiast, and I work with languages like **Python**, **C++** and **Shell Scripting**.
 
 ## 🖥️ Technologies & Tools
 
@@ -16,5 +15,5 @@ I'm Reedemer23, and I work with **Python**, **C++** and **Shell Scripting**.
 
 ## 📫 How to reach me
 Feel free to connect or reach out if you'd like to collaborate or talk tech!
-
+DM me through github
 ---

@@ -1,5 +1,5 @@
-# Hi there 👋
-I'm AI enthusiast, and I work with languages like **Python**, **C++** and **Shell Scripting**.
+# I'm AI enthusiast
+I work with languages like **Python**, **C++** and **Shell Scripting**.
 
 ## 🖥️ Technologies & Tools
 

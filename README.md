@@ -1,12 +1,12 @@
 # I'm AI enthusiast
-I work with languages like **Python**, **C++** and **Shell Scripting**.
+I work with languages like **Python**, **Java**, **C++** and **Microsoft Power Apps**.
 
 ## 🖥️ Technologies & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/powerapps/742774"alt="Microsoft Power Apps"width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" alt="Microsoft Power Apps" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
